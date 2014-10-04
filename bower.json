@@ -1,0 +1,20 @@
+{
+  "name": "college_guidance",
+  "version": "0.0.0",
+  "homepage": "https://github.com/garethlrose/college-guidance",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.26",
+    "angular-bootstrap": "~0.11.2",
+    "bootstrap": "~3.2.0"
+  }
+}
